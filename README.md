@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/u28ofkfcss1c1mpb?svg=true)](https://ci.appveyor.com/project/a-naraikin/n-ahj-hw-7-http-helpdesk-frontend)
+[![Build status](https://ci.appveyor.com/api/projects/status/3co2sj9y3xyxj0ux?svg=true)](https://ci.appveyor.com/project/a-naraikin/n-ahj-hw-9-anim-collapse)
 
 ## [веб-сайт](https://a-naraikin.github.io/n-ahj-hw.-9_anim_collapse/)
 
